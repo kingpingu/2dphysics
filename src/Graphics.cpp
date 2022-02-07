@@ -10,8 +10,6 @@ int Graphics::Width() {
     return windowWidth;
 }
 
-
-
 int Graphics::Height() {
     return windowHeight;
 }
